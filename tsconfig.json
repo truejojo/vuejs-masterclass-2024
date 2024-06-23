@@ -8,4 +8,8 @@
       "path": "./tsconfig.app.json"
     }
   ]
+  // "include": [
+  //   // other includes
+  //   "path/to/generated/typed-router.d.ts"
+  // ]
 }

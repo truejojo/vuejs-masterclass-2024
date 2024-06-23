@@ -2,7 +2,7 @@
 
 <template lang="">
   <div>
-    <p>Sorry - not found!</p>
+    <p>404 - Sorry Not Found!</p>
     <RouterLink to="/">Go to Home</RouterLink>
   </div>
 </template>
