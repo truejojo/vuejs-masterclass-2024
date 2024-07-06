@@ -37,3 +37,8 @@ npm run build
 ```sh
 npm run lint
 ```
+
+### Migrations
+
+chapter 3, 32
+after: npm run db:migrate:new 'new-table-name'-schema
